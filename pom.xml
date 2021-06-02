@@ -1,0 +1,24 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.qa_tests</groupId>
+	<artifactId>C594622</artifactId>
+	<version>1.0</version>
+	<dependencies>
+		<dependency>
+			<groupId>org.jboss.openjdk-orb</groupId>
+			<artifactId>openjdk-orb</artifactId>
+			<version>8.0.3.Final</version>
+		</dependency>
+<dependency>
+    <groupId>org.openstreetmap.osmosis</groupId>
+    <artifactId>osmosis-xml</artifactId>
+    <version>0.47.1-1-g80be2971</version>
+    <scope>test</scope>
+</dependency>
+<dependency>
+    <groupId>io.github.uqix</groupId>
+    <artifactId>sql-checker</artifactId>
+    <version>1.0.0</version>
+</dependency>
+	</dependencies>
+</project>
